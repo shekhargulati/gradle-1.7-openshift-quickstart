@@ -1,6 +1,6 @@
 # Gradle 1.7 OpenShift Quickstart #
 
-This currently does not work because of http://issues.gradle.org/browse/GRADLE-2871.
+This currently does not work because of http://issues.gradle.org/browse/GRADLE-2871. Gradle 1.6 works fine on OpenShift and you can use this repository https://github.com/shekhargulati/gradle-openshift-quickstart. I have also written detailed blog on this as well https://www.openshift.com/blogs/run-gradle-builds-on-openshift.
 
 To reproduce the issue follow following steps mentioned below.
 
